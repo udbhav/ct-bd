@@ -13,4 +13,8 @@ html, body {
   -webkit-transform: translateY(-50%);
   width: 100%;
   left: 0;
+  font-family: 'Helvetica','Arial','sans-serif';
+  color: white;
+  font-size: 96px;
+  font-weight: bold;
 }
